@@ -30,32 +30,32 @@ const galleryData = [
   },
   {
     id: 6,
-    image: '/assets/galeri5.jpg',
+    image: '/assets/galeri5.JPG',
     caption: 'Practice Theater Class'
   },
   {
     id: 7,
-    image: '/assets/galeri6.jpg',
+    image: '/assets/galeri6.JPG',
     caption: 'Eating Tumpeng on August 17'
   },
   {
     id: 8,
-    image: '/assets/galeri7.jpg',
+    image: '/assets/galeri7.JPG',
     caption: 'Preparation for the Lomba Makan Kerupuk'
   },
   {
     id: 9,
-    image: '/assets/galeri8.jpg',
+    image: '/assets/galeri8.JPG',
     caption: 'Try eat kerupuk without soto...'
   },
   {
     id: 10,
-    image: '/assets/galeri9.jpg',
+    image: '/assets/galeri9.jpeg',
     caption: 'Why did you take a picture like this?'
   },
   {
     id: 11,
-    image: '/assets/galeri10.jpg',
+    image: '/assets/galeri10.jpeg',
     caption: 'Prepare for Sholat Dhuhur'
   },
   {

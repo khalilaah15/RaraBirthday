@@ -23,7 +23,7 @@ const timelineData = [
     year: '2023',
     title: 'First Beach Trip',
     description: 'Banyu Meneng Beach. Maybe its my first time going to the beach with classmates, but it was a memorable experience with friends.',
-    imageUrl: '/assets/2023.jpg',
+    imageUrl: '/assets/2023.JPG',
     isLeft: true
   },
   {
