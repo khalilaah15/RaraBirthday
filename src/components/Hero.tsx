@@ -9,16 +9,16 @@ const Hero: React.FC<HeroProps> = ({ onScrollDown }) => {
   const [isVisible, setIsVisible] = useState(false);
 
   useEffect(() => {
-    // Trigger animation after component mount
     setIsVisible(true);
   }, []);
 
   return (
     <div className="relative h-screen flex items-center justify-center overflow-hidden bg-neutral-900">
       <div 
-        className="absolute inset-0 bg-[url('src/assets/background.jpg')] bg-cover bg-center"
-        style={{ opacity: 0.3 }}
-      ></div>
+  className="absolute inset-0 bg-[url('/assets/background.jpg')] bg-cover bg-center"
+  style={{ opacity: 0.3 }}
+></div>
+
       
       <div className="relative z-10 text-center px-4 max-w-4xl">
         <h1 
