@@ -7,7 +7,7 @@ const timelineData = [
     year: '2022',
     title: 'How We Met',
     description: 'It all started on an ordinary day. We sat at the same desk in 11th grade or SEPRAPAT. We were just classmates, but little did we know that this would be the beginning of a best friendship.',
-    imageUrl: 'src/assets/bangkuu.jpg',
+    imageUrl: '/assets/bangkuu.jpg',
     isLeft: true
   },
   {
@@ -15,7 +15,7 @@ const timelineData = [
     year: '2022',
     title: 'Dies Natalis Moklet 2022',
     description: 'Cosplay, class drama, projects UKL, P5 assignments, we went through so many things this year. It was a year of growth and learning.',
-    imageUrl: 'src/assets/2022.jpg',
+    imageUrl: '/assets/2022.jpg',
     isLeft: false
   },
   {
@@ -23,7 +23,7 @@ const timelineData = [
     year: '2023',
     title: 'First Beach Trip',
     description: 'Banyu Meneng Beach. Maybe its my first time going to the beach with classmates, but it was a memorable experience with friends.',
-    imageUrl: 'src/assets/2023.jpg',
+    imageUrl: '/assets/2023.jpg',
     isLeft: true
   },
   {
@@ -31,7 +31,7 @@ const timelineData = [
     year: '2023',
     title: 'Separated in 12th Grade',
     description: 'We parted ways in our brief 12th grade year. We remained friends, but not as classmates. We still shared moments, laughter, and support.',
-    imageUrl: 'src/assets/pisah.jpg',
+    imageUrl: '/assets/pisah.jpg',
     isLeft: false
   },
   {
@@ -39,7 +39,7 @@ const timelineData = [
     year: '2024',
     title: 'Internship and Graduation',
     description: 'From differences in internship locations to differences in our current educational institutions. We may not be in the same school anymore, but we continue to support each other in our respective journeys.',
-    imageUrl: 'src/assets/2024.png',
+    imageUrl: '/assets/2024.png',
     isLeft: true
   },
 ];

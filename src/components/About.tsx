@@ -5,13 +5,13 @@ const friendsData = [
     name: '16 Mei 2005',
     bio: 'Today marks the day the world was gifted with someone so special. On this day, years ago, someone truly amazing was born. Your presence has brought joy, warmth, and color into the lives of many.',
     quote: '"You deserve to feel loved and appreciated today and every day."',
-    image: 'src/assets/about1.jpg'
+    image: '/assets/about1.jpg',
   },
   {
     name: 'Today, 16 Mei 2025',
     bio: 'I hope this new chapter of your life brings you closer to your dreams, filled with purpose, peace, and new adventures. May you continue to shine and grow stronger in the years to come.',
     quote: '"Whatever comes next in your life, I hope it’s something that makes your soul excited to wake up every morning."',
-    image: 'src/assets/about2.jpg'
+    image: '/assets/about2.jpg',
   }
 ];
 

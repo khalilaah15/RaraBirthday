@@ -5,62 +5,62 @@ import { ChevronLeft, ChevronRight } from 'lucide-react';
 const galleryData = [
   {
     id: 1,
-    image: 'src/assets/galeri1.jpg',
+    image: '/assets/galeri1.jpg',
     caption: 'Admin Cafe Seprapat'
   },
   {
     id: 2,
-    image: 'src/assets/galeri2.jpg',
+    image: '/assets/galeri2.jpg',
     caption: 'after physical education class'
   },
   {
     id: 3,
-    image: 'src/assets/galeri3.jpg',
+    image: '/assets/galeri3.jpg',
     caption: 'Sleep at Keputrian Class'
   },
   {
     id: 4,
-    image: 'src/assets/bangku.jpg',
+    image: '/assets/bangku.jpg',
     caption: 'Take picture with William iPhone'
   },
   {
     id: 5,
-    image: 'src/assets/galeri4.jpg',
+    image: '/assets/galeri4.jpg',
     caption: 'lost in the Surabaya Zoo'
   },
   {
     id: 6,
-    image: 'src/assets/galeri5.jpg',
+    image: '/assets/galeri5.jpg',
     caption: 'Practice Theater Class'
   },
   {
     id: 7,
-    image: 'src/assets/galeri6.jpg',
+    image: '/assets/galeri6.jpg',
     caption: 'Eating Tumpeng on August 17'
   },
   {
     id: 8,
-    image: 'src/assets/galeri7.jpg',
+    image: '/assets/galeri7.jpg',
     caption: 'Preparation for the Lomba Makan Kerupuk'
   },
   {
     id: 9,
-    image: 'src/assets/galeri8.jpg',
+    image: '/assets/galeri8.jpg',
     caption: 'Try eat kerupuk without soto...'
   },
   {
     id: 10,
-    image: 'src/assets/galeri9.jpeg',
+    image: '/assets/galeri9.jpg',
     caption: 'Why did you take a picture like this?'
   },
   {
     id: 11,
-    image: 'src/assets/galeri10.jpeg',
+    image: '/assets/galeri10.jpg',
     caption: 'Prepare for Sholat Dhuhur'
   },
   {
     id: 12,
-    image: 'src/assets/galeri11.jpg',
+    image: '/assets/galeri11.jpg',
     caption: 'Always took a picture in this class'
   }
 ];
