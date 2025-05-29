@@ -2,7 +2,7 @@ import React, { useRef, useEffect, useState } from 'react';
 
 const friendsData = [
   {
-    name: '16 Mei 2005',
+    name: '16 Mei 2006',
     bio: 'Today marks the day the world was gifted with someone so special. On this day, years ago, someone truly amazing was born. Your presence has brought joy, warmth, and color into the lives of many.',
     quote: '"You deserve to feel loved and appreciated today and every day."',
     image: '/assets/about1.jpg',
@@ -44,9 +44,9 @@ const About: React.FC = () => {
   }, []);
 
   return (
-    <section id="20 years" className="py-20 bg-neutral-900 text-white">
+    <section id="Nineteen" className="py-20 bg-neutral-900 text-white">
       <div ref={aboutRef} className="container mx-auto px-4 md:px-8">
-        <h2 className="text-3xl md:text-4xl font-bold text-center mb-16">20 years of your presence</h2>
+        <h2 className="text-3xl md:text-4xl font-bold text-center mb-16">19 years of your presence</h2>
         
         <div className="grid grid-cols-1 md:grid-cols-2 gap-12">
           {friendsData.map((person, index) => (

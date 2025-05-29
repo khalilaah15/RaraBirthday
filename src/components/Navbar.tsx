@@ -43,7 +43,7 @@ const Navbar: React.FC = () => {
             </div>
             
             <div className="hidden md:flex space-x-8">
-              {['journey', 'gallery', '20 years', 'thank'].map((section) => (
+              {['journey', 'gallery', 'Nineteen', 'thank'].map((section) => (
                 <button 
                   key={section}
                   onClick={() => scrollToSection(section)}
@@ -76,7 +76,7 @@ const Navbar: React.FC = () => {
         </div>
         
         <div className="flex flex-col items-center space-y-8 mt-12">
-          {['journey', 'gallery', '20 years', 'thank'].map((section) => (
+          {['journey', 'gallery', 'Nineteen', 'thank'].map((section) => (
             <button 
               key={section}
               onClick={() => scrollToSection(section)}
